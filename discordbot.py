@@ -8,11 +8,11 @@ import random
 import datetime
 import time
 
-papagoid = "lc28UCeAjSsUqoTnZ0AU"
-papagopw = "EXa_ddldd1"
+papagoid = "papagoid"
+papagopw = "papagopw"
 
 print(os);
-token="NzQ5OTQ5NzYwOTQ5MTkwNzQ3.X0zbJA.BrX9hwxP_xN5mmI0dc9Q-WJPxSw"
+token="discord token"
 client = discord.Client()
 
 
